@@ -16,7 +16,7 @@ Twinkle, twinkle, little star,
 		Up above the world so high,		
 		Like a diamond in the sky.
 Twinkle, twinkle, little star, 
-	How I wonder what you are
+	How I wonder what you are  imma diamond
 
 &nbsp;
 &nbsp;
