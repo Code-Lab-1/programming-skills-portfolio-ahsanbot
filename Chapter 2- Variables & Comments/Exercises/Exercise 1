@@ -1,0 +1,4 @@
+msg = "Things might get quite complicated."
+print(msg)
+msg = "They who wins never loses hopes."
+print(msg)
